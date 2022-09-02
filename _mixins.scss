@@ -1,0 +1,9 @@
+@mixin btn-styles {
+    font-family: $secondfont;
+    color: $white;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: $trans;
+    border: none;
+    background: $blue;
+  }
